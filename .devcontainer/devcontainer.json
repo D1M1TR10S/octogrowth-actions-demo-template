@@ -1,0 +1,11 @@
+{
+    "name": "GitHub Actions Demo",
+    "onCreateCommand": "",
+    "customizations": {
+        "vscode": {
+          "extensions": [
+            "/workspaces/octogrowth-actions-demo-template/.devcontainer/extensions/github-actions-demo-0.0.8.vsix"
+          ]
+        }
+    }
+}
